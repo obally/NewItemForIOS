@@ -23,6 +23,7 @@
 #import "OBFilterViewController.h"
 #import "OBCombineViewController.h"
 #import "StudentTest.h"
+#import "Student.h"
 @interface ViewController ()
 //@property(nonatomic,strong) RACSignal *delegateSignal;
 @property(nonatomic,copy) NSString *strValue;
@@ -40,7 +41,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self checkCycle];
+    [self testStudent];
+//    [self checkCycle];
 //    [self addSignalButton];
 //    [self addView];
 //    [self test];
@@ -78,6 +80,22 @@
 //    NSTimer *time = nil;
        // Do any additional setup after loading the view, typically from a nib.
 }
+- (void)testStudent
+{
+    Student *student = [[Student alloc]init];
+    [Student study];
+    NSLog(@"student's class is %@",[student class]);
+    NSLog(@"Student's meta class is %@", object_getClass([student class]));
+    NSLog(@"Student's meta class's superClass is %@",object_getClass(object_getClass([student class])));
+    Class currentClass = [Student class];
+    for (int i=0; i < 5; i++) {
+         NSLog(@"Following the isa pointer %d times gives %p %@", i, currentClass,currentClass);
+        currentClass = object_getClass(currentClass);
+    }
+    NSLog(@"NSObject's class is %p", [NSObject class]);
+    NSLog(@"NSObject's meta class is %p", object_getClass([NSObject class]));
+}
+
 - (void)checkCycle
 {
     StudentTest *student = [[StudentTest alloc]init];

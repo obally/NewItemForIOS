@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "194"
-            endingLineNumber = "194"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
             landmarkName = "-addView"
             landmarkType = "7">
          </BreakpointContent>
@@ -74,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "181"
-            endingLineNumber = "181"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
             landmarkName = "-addView"
             landmarkType = "7">
          </BreakpointContent>
@@ -122,11 +122,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "862"
-            endingLineNumber = "862"
+            startingLineNumber = "880"
+            endingLineNumber = "880"
             landmarkName = "-zip"
             landmarkType = "7">
          </BreakpointContent>
@@ -138,11 +138,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "863"
-            endingLineNumber = "863"
+            startingLineNumber = "881"
+            endingLineNumber = "881"
             landmarkName = "-zip"
             landmarkType = "7">
          </BreakpointContent>
@@ -170,7 +170,7 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/Pods/ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACStream.m"
-                  timestampString = "525325741.109379"
+                  timestampString = "525948170.144163"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "226"
@@ -185,7 +185,7 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/Pods/ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACStream.m"
-                  timestampString = "525325741.113562"
+                  timestampString = "525948170.146544"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "227"
@@ -202,11 +202,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "859"
-            endingLineNumber = "859"
+            startingLineNumber = "877"
+            endingLineNumber = "877"
             landmarkName = "-zip"
             landmarkType = "7">
          </BreakpointContent>
@@ -234,11 +234,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "908"
-            endingLineNumber = "908"
+            startingLineNumber = "926"
+            endingLineNumber = "926"
             landmarkName = "-takeWhileBlock"
             landmarkType = "7">
             <Locations>
@@ -250,11 +250,11 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525325741.127611"
+                  timestampString = "525948170.159103"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "877"
-                  endingLineNumber = "877"
+                  startingLineNumber = "927"
+                  endingLineNumber = "927"
                   offsetFromSymbolStart = "172">
                </Location>
                <Location
@@ -265,11 +265,11 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525325741.129985"
+                  timestampString = "525948170.161181"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "878"
-                  endingLineNumber = "878"
+                  startingLineNumber = "928"
+                  endingLineNumber = "928"
                   offsetFromSymbolStart = "51">
                </Location>
             </Locations>
@@ -282,11 +282,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "901"
-            endingLineNumber = "901"
+            startingLineNumber = "919"
+            endingLineNumber = "919"
             landmarkName = "-takeWhileBlock"
             landmarkType = "7">
             <Locations>
@@ -298,11 +298,11 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525325741.136008"
+                  timestampString = "525948170.166772"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "870"
-                  endingLineNumber = "870"
+                  startingLineNumber = "920"
+                  endingLineNumber = "920"
                   offsetFromSymbolStart = "23">
                </Location>
                <Location
@@ -313,11 +313,11 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525325741.138334"
+                  timestampString = "525948170.168606"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "871"
-                  endingLineNumber = "871"
+                  startingLineNumber = "921"
+                  endingLineNumber = "921"
                   offsetFromSymbolStart = "51">
                </Location>
             </Locations>
@@ -330,11 +330,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "911"
-            endingLineNumber = "911"
+            startingLineNumber = "929"
+            endingLineNumber = "929"
             landmarkName = "-takeWhileBlock"
             landmarkType = "7">
          </BreakpointContent>
@@ -362,11 +362,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "253"
-            endingLineNumber = "253"
+            startingLineNumber = "271"
+            endingLineNumber = "271"
             landmarkName = "-test4"
             landmarkType = "7">
          </BreakpointContent>
@@ -378,11 +378,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "259"
-            endingLineNumber = "259"
+            startingLineNumber = "277"
+            endingLineNumber = "277"
             landmarkName = "-test4"
             landmarkType = "7">
          </BreakpointContent>
@@ -394,11 +394,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "257"
-            endingLineNumber = "257"
+            startingLineNumber = "275"
+            endingLineNumber = "275"
             landmarkName = "-test4"
             landmarkType = "7">
          </BreakpointContent>
@@ -474,7 +474,7 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/Pods/ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACSignal.m"
-                  timestampString = "525325741.17694"
+                  timestampString = "525948170.202978"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "54"
@@ -489,7 +489,7 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/Pods/ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACSignal.m"
-                  timestampString = "525325741.179242"
+                  timestampString = "525948170.205615"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "54"
@@ -538,11 +538,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "746"
-            endingLineNumber = "746"
+            startingLineNumber = "764"
+            endingLineNumber = "764"
             landmarkName = "-bind2"
             landmarkType = "7">
          </BreakpointContent>
@@ -554,11 +554,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "743"
-            endingLineNumber = "743"
+            startingLineNumber = "761"
+            endingLineNumber = "761"
             landmarkName = "-bind2"
             landmarkType = "7">
          </BreakpointContent>
@@ -570,11 +570,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "756"
-            endingLineNumber = "756"
+            startingLineNumber = "774"
+            endingLineNumber = "774"
             landmarkName = "-bind2"
             landmarkType = "7">
             <Locations>
@@ -586,11 +586,11 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525325741.201596"
+                  timestampString = "525948170.225666"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "724"
-                  endingLineNumber = "724"
+                  startingLineNumber = "774"
+                  endingLineNumber = "774"
                   offsetFromSymbolStart = "16">
                </Location>
                <Location
@@ -601,11 +601,11 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525325741.204158"
+                  timestampString = "525948170.228476"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "725"
-                  endingLineNumber = "725"
+                  startingLineNumber = "775"
+                  endingLineNumber = "775"
                   offsetFromSymbolStart = "60">
                </Location>
             </Locations>
@@ -618,11 +618,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "757"
-            endingLineNumber = "757"
+            startingLineNumber = "775"
+            endingLineNumber = "775"
             landmarkName = "-bind2"
             landmarkType = "7">
          </BreakpointContent>
@@ -634,11 +634,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "763"
-            endingLineNumber = "763"
+            startingLineNumber = "781"
+            endingLineNumber = "781"
             landmarkName = "-bind2"
             landmarkType = "7">
          </BreakpointContent>
@@ -887,11 +887,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "610"
-            endingLineNumber = "610"
+            startingLineNumber = "628"
+            endingLineNumber = "628"
             landmarkName = "-throttle"
             landmarkType = "7">
          </BreakpointContent>
@@ -903,11 +903,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACTest/ViewController.m"
-            timestampString = "525843647.935025"
+            timestampString = "525948067.031951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "614"
-            endingLineNumber = "614"
+            startingLineNumber = "632"
+            endingLineNumber = "632"
             landmarkName = "-throttle"
             landmarkType = "7">
          </BreakpointContent>

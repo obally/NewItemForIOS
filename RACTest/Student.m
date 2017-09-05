@@ -61,5 +61,43 @@
     }else
         return NSOrderedAscending;
 }
++ (void)study
+{
+    NSLog(@"student -------study");
+    [self instanceVariables];
+    [self ClassMethodNames];
+}
+- (void)run
+{
+    NSLog(@"student-------run");
+}
++(NSArray *)instanceVariables
+{
+    unsigned int outCount;
+    Ivar *ivars = class_copyIvarList(self, &outCount);
+    NSMutableArray *result = [NSMutableArray array];
+    for (int i = 0; i < outCount; i++) {
+        NSString *type = [NSString stringWithCString:ivar_getTypeEncoding(ivars[i]) encoding:NSUTF8StringEncoding];
+        NSString *name =  [NSString stringWithCString:ivar_getName(ivars[i]) encoding:NSUTF8StringEncoding];
+        NSString *ivarDec = [NSString stringWithFormat:@"%@--%@",type,name];
+        [result addObject:ivarDec];
+    }
+    free(ivars);
+    NSLog(@"instanceVariables-----%@",result);
+    return result.count ? [result copy] : nil;
+}
++ (NSArray *)ClassMethodNames
+{
+    NSMutableArray * array = [NSMutableArray array];
+    unsigned int methodCount = 0;
+    Method * methodList = class_copyMethodList([self class], &methodCount);
+    unsigned int i;
+    for(i = 0; i < methodCount; i++) {
+        [array addObject: NSStringFromSelector(method_getName(methodList[i]))];
+    }
+    NSLog(@"ClassMethodNames-----%@",array);
+    free(methodList);
+    return array;
+}
 
 @end

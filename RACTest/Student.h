@@ -21,5 +21,6 @@
 - (NSComparisonResult)compareWithAge:(Student *)stu;
 /*按分数比较大小*/
 - (NSComparisonResult)compareWithScore:(Student *)stu;
-
++ (void)study;
+- (void)run;
 @end
