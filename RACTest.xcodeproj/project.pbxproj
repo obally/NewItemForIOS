@@ -709,7 +709,7 @@
 					"-framework",
 					"\"UIKit\"",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.synjones.RACTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.synjones.RACTestDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -743,7 +743,7 @@
 					"-framework",
 					"\"UIKit\"",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.synjones.RACTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.synjones.RACTestDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
