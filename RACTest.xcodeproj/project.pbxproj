@@ -711,7 +711,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.synjones.RACTestDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "526b5481-c914-4606-b1d7-35eb13610d2e";
+				PROVISIONING_PROFILE = "98026911-a9a4-431a-8c6b-e31ded7736a1";
 				PROVISIONING_PROFILE_SPECIFIER = RACTest;
 			};
 			name = Debug;
@@ -721,6 +721,7 @@
 			baseConfigurationReference = 7301B0E5EC00A141417DA6E8 /* Pods-RACTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				DEVELOPMENT_TEAM = H9BU355MET;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/RACTest/PrefixHeader.pch";
 				INFOPLIST_FILE = RACTest/Info.plist;
@@ -747,8 +748,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.synjones.RACTestDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "526b5481-c914-4606-b1d7-35eb13610d2e";
-				PROVISIONING_PROFILE_SPECIFIER = RACTest;
+				PROVISIONING_PROFILE = "9506a9f0-0aa9-4d31-a9ff-5327b150f52a";
+				PROVISIONING_PROFILE_SPECIFIER = RACTestRelease;
 			};
 			name = Release;
 		};
