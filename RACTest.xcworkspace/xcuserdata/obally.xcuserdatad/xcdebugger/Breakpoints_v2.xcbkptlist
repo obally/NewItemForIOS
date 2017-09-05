@@ -170,12 +170,12 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/Pods/ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACStream.m"
-                  timestampString = "525948170.144163"
+                  timestampString = "526280182.499017"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "226"
                   endingLineNumber = "226"
-                  offsetFromSymbolStart = "43">
+                  offsetFromSymbolStart = "52">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -185,12 +185,12 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/Pods/ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACStream.m"
-                  timestampString = "525948170.146544"
+                  timestampString = "526280182.502321"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "227"
                   endingLineNumber = "227"
-                  offsetFromSymbolStart = "80">
+                  offsetFromSymbolStart = "88">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -250,12 +250,12 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525948170.159103"
+                  timestampString = "526280182.522988"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "927"
                   endingLineNumber = "927"
-                  offsetFromSymbolStart = "172">
+                  offsetFromSymbolStart = "204">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -265,12 +265,12 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525948170.161181"
+                  timestampString = "526280182.525184"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "928"
                   endingLineNumber = "928"
-                  offsetFromSymbolStart = "51">
+                  offsetFromSymbolStart = "56">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -298,12 +298,12 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525948170.166772"
+                  timestampString = "526280182.529651"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "920"
                   endingLineNumber = "920"
-                  offsetFromSymbolStart = "23">
+                  offsetFromSymbolStart = "44">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -313,12 +313,12 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525948170.168606"
+                  timestampString = "526280182.532034"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "921"
                   endingLineNumber = "921"
-                  offsetFromSymbolStart = "51">
+                  offsetFromSymbolStart = "64">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -474,12 +474,12 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/Pods/ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACSignal.m"
-                  timestampString = "525948170.202978"
+                  timestampString = "526280182.562886"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "54"
                   endingLineNumber = "54"
-                  offsetFromSymbolStart = "79">
+                  offsetFromSymbolStart = "80">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -489,12 +489,12 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/Pods/ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACSignal.m"
-                  timestampString = "525948170.205615"
+                  timestampString = "526280182.565228"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "54"
                   endingLineNumber = "54"
-                  offsetFromSymbolStart = "97">
+                  offsetFromSymbolStart = "112">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -586,12 +586,12 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525948170.225666"
+                  timestampString = "526280182.586169"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "774"
                   endingLineNumber = "774"
-                  offsetFromSymbolStart = "16">
+                  offsetFromSymbolStart = "20">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -601,12 +601,12 @@
                   moduleName = "RACTest"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/obally/Documents/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B/RACTest/RACTest/ViewController.m"
-                  timestampString = "525948170.228476"
+                  timestampString = "526280182.588291"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "775"
                   endingLineNumber = "775"
-                  offsetFromSymbolStart = "60">
+                  offsetFromSymbolStart = "68">
                </Location>
             </Locations>
          </BreakpointContent>
