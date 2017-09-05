@@ -393,7 +393,7 @@
 					2B8724681F302106006BB68C = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = H9BU355MET;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 					2B8724811F302107006BB68C = {
 						CreatedOnToolsVersion = 8.3.3;
@@ -629,7 +629,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -672,7 +672,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -685,6 +685,7 @@
 			baseConfigurationReference = 0E294EEB54D1F2383EB96C7B /* Pods-RACTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = H9BU355MET;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/RACTest/PrefixHeader.pch";
 				INFOPLIST_FILE = RACTest/Info.plist;
@@ -711,8 +712,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.synjones.RACTestDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "98026911-a9a4-431a-8c6b-e31ded7736a1";
-				PROVISIONING_PROFILE_SPECIFIER = RACTest;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
@@ -721,7 +722,7 @@
 			baseConfigurationReference = 7301B0E5EC00A141417DA6E8 /* Pods-RACTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = H9BU355MET;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/RACTest/PrefixHeader.pch";
 				INFOPLIST_FILE = RACTest/Info.plist;
@@ -748,8 +749,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.synjones.RACTestDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "9506a9f0-0aa9-4d31-a9ff-5327b150f52a";
-				PROVISIONING_PROFILE_SPECIFIER = RACTestRelease;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
